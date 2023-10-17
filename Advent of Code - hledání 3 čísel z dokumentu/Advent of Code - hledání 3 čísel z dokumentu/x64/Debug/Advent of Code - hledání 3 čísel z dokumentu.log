@@ -1,0 +1,3 @@
+﻿  Advent of Code - hledání 3 čísel z dokumentu.cpp
+C:\Users\Ondra\source\repos\Výuka 2. semestr\Advent of Code - hledání 3 čísel z dokumentu\Advent of Code - hledání 3 čísel z dokumentu\Advent of Code - hledání 3 čísel z dokumentu.cpp(18,5): error C3861: sort: identifikátor se nenašel
+C:\Users\Ondra\source\repos\Výuka 2. semestr\Advent of Code - hledání 3 čísel z dokumentu\Advent of Code - hledání 3 čísel z dokumentu\Advent of Code - hledání 3 čísel z dokumentu.cpp(21,19): warning C4267: inicializování: Převod z: size_t na: int, může dojít ke ztrátě dat.
