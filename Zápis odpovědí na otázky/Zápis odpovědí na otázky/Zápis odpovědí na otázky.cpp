@@ -45,7 +45,7 @@ Dotaznik * buildDotaznik(string path)
 	string line;
 	Dotaznik* kviz = new Dotaznik{ new Otazka[1], 0 };					//Vytvoření struktury velikosti pole pro otázky.
 
-	file.open("Otázky.txt");											//Otevření souboru s otázkami.
+	file.open(path);											//Otevření souboru s otázkami.
 
 	while (getline(file, line)) {										//Čtení souboru po řádcích.
 		if (kviz->delka != 0) {
