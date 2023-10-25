@@ -1,0 +1,3 @@
+Ktere misto je nejvetsi?;Brno;Praha;Olomouc;Zlin;b
+Ktere misto je nejvetsi?;Olomouc;Brno;Praha;Ostrava;c
+Ktere misto je nejvetsi?;Pardubice;Praha;Olomouc;Brno;b
