@@ -1,0 +1,3 @@
+﻿  Advent of code - loď.cpp
+C:\Users\Ondra\source\repos\Výuka 2. semestr\Advent of code - loď\Advent of code - loď\Advent of code - loď.cpp(32): error C4700: používá se neinicializovaná lokální proměnná direction
+C:\Users\Ondra\source\repos\Výuka 2. semestr\Advent of code - loď\Advent of code - loď\Advent of code - loď.cpp(42): error C4700: používá se neinicializovaná lokální proměnná degrees
