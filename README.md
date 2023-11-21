@@ -1,2 +1,2 @@
 # VyukaForBegy
-Úkoly do hodiny
+Úkoly do hodiny v C++
