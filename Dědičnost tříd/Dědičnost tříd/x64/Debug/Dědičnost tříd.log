@@ -1,0 +1,8 @@
+﻿  Dědičnost tříd.cpp
+C:\Users\Ondra\source\repos\Výuka 2. semestr\C++\Dědičnost tříd\Dědičnost tříd\Dědičnost tříd.cpp(64,12): warning C4244: inicializování: double se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Ondra\source\repos\Výuka 2. semestr\C++\Dědičnost tříd\Dědičnost tříd\Dědičnost tříd.cpp(65,12): warning C4244: inicializování: double se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Ondra\source\repos\Výuka 2. semestr\C++\Dědičnost tříd\Dědičnost tříd\Dědičnost tříd.cpp(117,12): warning C4244: inicializování: double se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Ondra\source\repos\Výuka 2. semestr\C++\Dědičnost tříd\Dědičnost tříd\Dědičnost tříd.cpp(118,12): warning C4244: inicializování: double se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Ondra\source\repos\Výuka 2. semestr\C++\Dědičnost tříd\Dědičnost tříd\Dědičnost tříd.cpp(134,12): warning C4244: inicializování: double se převádí na int; může dojít ke ztrátě dat.
+C:\Users\Ondra\source\repos\Výuka 2. semestr\C++\Dědičnost tříd\Dědičnost tříd\Dědičnost tříd.cpp(135,12): warning C4244: inicializování: double se převádí na int; může dojít ke ztrátě dat.
+  Dědičnost tříd.vcxproj -> C:\Users\Ondra\source\repos\Výuka 2. semestr\C++\Dědičnost tříd\x64\Debug\Dědičnost tříd.exe
